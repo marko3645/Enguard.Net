@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Enguard.Net/Enguard.Net.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Enguard.Net.Tests/Enguard.Net.Tests.csproj" />
+  </Folder>
+</Solution>
